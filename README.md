@@ -14,34 +14,38 @@ You can found at:
 
 ## About me
 
-:man_technologist: <strong>I'm a Backend developer</strong>
+:man_technologist: **I'm a developer**
 
-**I'm currently development micro services (console, workers, API) with C#, temporarily remote at DB1 Global Software (Banco Neon's Team)** Also, I'm part of Technical Board at DB1 Group.
+**I'm currently working with software architecturing at ambev-tech - an Ab-InBev company. And also helping and developing front-end, backend and devops. My squad is responsible to validate, support and developing new Ideas comming from Ab-InBev breweries. Every week we have a new idea to discover, study and - maybe - develop.**
 
-I coordinate DelphiIngá meetup, witch discuss Delphi and Pascal languages, as part of [Dev Parana](https://www.devparana.org).
+
+I coordinate, besides my friend [Ivo Batistela](https://github.com/ByIvo), the Bemug meetup, whitch backend technologies chatting, as part of [Dev Parana](https://www.devparana.org).
 
 In 2020 I was designated as a Embarcadero MVP
 
-<code><img src="https://www.blogdoft.com.br/wp-content/uploads/2020/11/MVP_NewLogo_100x100_Black-03.png"></code>
-
 ## Languages and Technologies that I use daily
-<code><img height="40" src="https://raw.githubusercontent.com/ftathiago/ftathiago/e751c0e3d966b885a66821bfa47145898ab75bff/kafka.svg" alt="Kafka" title="Kafka"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C#" title="C#"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" title="Javascript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" title="Bootstrap"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" title="Java"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="VS Code"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql-server/sql-server.png" alt="SQL Server" title="SQL Server"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" alt="PostgreSQL" title="PostgreSQL"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/yaml/yaml.png" alt="Yaml" title="Yaml"></code>
-
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure" title="Azure"></code>
+<code><img height="40" src="k8s.png" alt="k8s" title="k8s"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 
 ### Languages and technologies that I also knowns
-<code><img height="20" src="https://raw.githubusercontent.com/ftathiago/ftathiago/main/visual-studio.png" alt="Visual Studio" title="Visual Studio"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/ftathiago/ftathiago/e751c0e3d966b885a66821bfa47145898ab75bff/kafka.svg" alt="Kafka" title="Kafka"></code>
+<code>
+<img height="20" src="https://raw.githubusercontent.com/ftathiago/ftathiago/main/visual-studio.png" alt="Visual Studio" title="Visual Studio"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/ftathiago/ftathiago/main/rad-studio-delphi.png" alt="RAD Studio - Delphi" title="RAD Studio - Delphi"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.Js" title="Node.Js"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" title="HTML"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" title="CSS3"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" alt="nginx" title="nginx"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="php" title="php"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" title="React"></code>
