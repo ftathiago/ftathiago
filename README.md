@@ -2,7 +2,7 @@
 
 # Hi, I'm FT! 🚀
 
-_Software Engineer at [AmbevTech](https://ambevtech.com.br/)_<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+_Software Architect at [AmbevTech](https://ambevtech.com.br/)_<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 You can found at:
 
@@ -16,10 +16,10 @@ You can found at:
 
 :man_technologist: **I'm a developer**
 
-**I'm currently working with software architecturing at ambev-tech - an Ab-InBev company. And also helping and developing front-end, backend and devops. My squad is responsible to validate, support and developing new Ideas comming from Ab-InBev breweries. Every week we have a new idea to discover, study and - maybe - develop.**
+**I'm currently working with software architecture at ambev-tech - an Ab-InBev company. And also helping and developing front-end, backend and devops. My squad is responsible to validate, support and developing new Ideas comming from Ab-InBev breweries. Every week we have a new idea to discover, study and - maybe - develop.**
 
 
-I coordinate, besides my friend [Ivo Batistela](https://github.com/ByIvo), the Bemug meetup, whitch backend technologies chatting, as part of [Dev Parana](https://www.devparana.org).
+I coordinate, besides my friend [Ivo Batistela](https://github.com/ByIvo), the Bemug meetup, where we chat about backend technologies, as part of [Dev Parana](https://www.devparana.org).
 
 In 2020 I was designated as a Embarcadero MVP
 
